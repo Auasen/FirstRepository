@@ -11,7 +11,7 @@ import router from '@/router'
     <div style="flex: 1"></div>
     <div style="width: 150px; display: flex;align-items: center;padding-right: 10px">
       <img src="@/assets/OIP-C.jpg" alt="头像" style="width:40px; height: 40px;">
-      <span style="color: white; margin-left: 5px;">Cat</span>
+      <span style="color: white; margin-left: 5px;">CuteCat</span>
     </div>
   </div>
   <!--主体-->
